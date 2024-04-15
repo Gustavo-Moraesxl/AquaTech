@@ -9,6 +9,7 @@ body {
   width: 80%;
   margin: auto;
   display: flex;
+  cursor: pointer;
 }
 
 .header {
@@ -31,6 +32,7 @@ body {
 
 .header .container {
   justify-content: space-between;
+  cursor: pointer;
 }
 
 .banner{
